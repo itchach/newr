@@ -1,0 +1,17 @@
+
+.bg{
+    background-image: url('12.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    transition: background-image 0.6s ease;
+}
+
+.btn1{
+    position: absolute;
+    top: 5rem;
+    background-color: rgb(23, 235, 235);
+    height: 4rem;
+    width: 4rem;
+
+}
